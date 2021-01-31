@@ -39,8 +39,8 @@ public class Scoring : MonoBehaviour
 
     public List<int> value= new List<int>(); 
 
-    const string privateCode = "9N4OBMbHj0umu8ttIt3y1whMHWUKSTKUCzGc96mZNwhw";
-    const string publicCode = "5f198bb3eb371809c4849366";
+    const string privateCode = "";
+    const string publicCode = "";
     const string webURL = "http://dreamlo.com/lb/";
 
     public Highscore[] highscoreList;
